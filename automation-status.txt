@@ -1,0 +1,8 @@
+Automation Status
+
+Total Tests: 500
+Passed: 470
+Failed: 20
+Blocked: 10
+
+Coverage: 85%

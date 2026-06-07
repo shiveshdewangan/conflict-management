@@ -1,0 +1,6 @@
+Architecture Summary
+
+Frontend: React
+Backend: Node.js
+Database: PostgreSQL
+Cloud: AWS

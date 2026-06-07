@@ -1,0 +1,9 @@
+Database Information
+
+Database: CustomerDB
+
+Tables:
+- Users
+- Orders
+- Payments
+- AuditLogs

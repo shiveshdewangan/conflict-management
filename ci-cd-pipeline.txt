@@ -1,0 +1,7 @@
+CI/CD Pipeline
+
+Stages:
+1. Build
+2. Unit Test
+3. Integration Test
+4. Deploy
