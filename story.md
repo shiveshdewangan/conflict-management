@@ -1,1 +1,1 @@
-This chapter is all about Conflict Management
+This chapter is all about Conflict management
