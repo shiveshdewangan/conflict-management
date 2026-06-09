@@ -1,1 +1,3 @@
-This chapter is all about Conflict Management
+This chapter is all about conflict management
+
+DELETE FROM database_schema;
