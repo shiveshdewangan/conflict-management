@@ -1,0 +1,6 @@
+Coding Guidelines
+
+1. Follow naming conventions.
+2. Write reusable code.
+3. Add comments where necessary.
+4. Follow DRY principles.

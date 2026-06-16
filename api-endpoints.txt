@@ -1,0 +1,7 @@
+API Endpoints
+
+GET /users
+POST /users
+GET /orders
+POST /orders
+DELETE /orders/{id}
